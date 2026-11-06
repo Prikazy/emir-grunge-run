@@ -3,7 +3,7 @@ EMİR: GRUNGE RUN — PC (Windows) sürüm 2.1
 EmirGrungeRun.exe dosyasına çift tıkla. Kurulum gerekmez, tek dosya.
 Windows "bilinmeyen yayıncı / SmartScreen" uyarısı verirse: "Ek bilgi" > "Yine de çalıştır".
 
-DS sürümüyle aynı oyun: 5 dünya × 10 bölüm, dünya haritası, patronlar, dünya müzikleri.
+5 dünya × 10 bölüm, dünya haritası, patronlar, dünya müzikleri.
 PC'de 3D görüntü 3 kat çözünürlükte (768x576) ve 60 FPS çizilir.
 Kayıt: %APPDATA%\EmirGrungeRun\save.dat
 
